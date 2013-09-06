@@ -12,9 +12,9 @@ import gspread
 # ===========================================================================
 
 # Account details for google docs
-email       = 'you@somewhere.com'
-password    = '$hhh!'
-spreadsheet = 'SpreadsheetName'
+email       = 'supatap@gmail.com'
+password    = 'loveyouthailand'
+spreadsheet = 'DHT Humidity Logs'
 
 # ===========================================================================
 # Example Code
